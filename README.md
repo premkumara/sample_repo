@@ -1,4 +1,0 @@
-sample_repo
-===========
-
-Sample
